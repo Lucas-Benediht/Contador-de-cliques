@@ -7,3 +7,4 @@ function contar(){
 function zerar(){
     contador = 0
     resultado.innerHTML = null
+}
